@@ -23,6 +23,7 @@ iiiページ
 上から7行目
 =Σak+1F(ak)(k=0からn)-ΣakF(ak)(k=1からn)は
 =Σak+1F(ak)(k=0からn-1)-ΣakF(ak)(k=1からn)
+
 上から8行目
 Σ(ak+1-ak)F(ak)(k=0からn)
 Σ(ak+1-ak)F(ak)(k=0からn-1)
