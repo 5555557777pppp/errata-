@@ -1,5 +1,9 @@
 # errata-
 
+p.63 下から9行目
+sup fₙ = inf(−fₙ) →  
+sup fₙ = −inf(−fₙ) 
+
 p.67 下から1行目
 Σ aⱼμ(Aᵢ) →Σ aⱼμ(Aⱼ) 
 
